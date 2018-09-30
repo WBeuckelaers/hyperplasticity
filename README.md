@@ -1,7 +1,5 @@
 # hyperplasticity
-<<<<<<< HEAD
-This project provides numerical implementations of models derived in the hyperplasticity framework. 
-=======
+
 This project provides numerical implementations of models derived in the hyperplasticity framework. The models are largely based on the hyperplasticity course from G.T. Houlsby (https://hyperplasticity.wordpress.com/) and the book *Principles of Hyperplasticity* by G.T. Houlsby and A.M. Puzrin (2006).
 
 The table below gives an overview of the content in this project with links to the slide numbers of the hyperplasticity course and to chapter numbers in the book.
@@ -24,8 +22,6 @@ The table below gives an overview of the content in this project with links to t
 | Modified Cam-Clay  | 2-1  | 13-3 | 10.1.1 |
 | 2D Frictional soil  | 3-1  | 12-2 | 5.3.1 |
 | Von Mises Elastoplasticity  | 4-1  | 7-5  | 5.2.2 |
-
->>>>>>> 908d45f059f9ed32a2fa033bdc392c383595b0a0
 
 ## Getting Started
 
